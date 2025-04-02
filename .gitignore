@@ -1,0 +1,9 @@
+./reconstructed_results/
+./reconstructed_results/video_results/
+./reconstructed_results/image_results/
+
+./pretrained/
+./pretrained/cdt_base.ckpt
+./pretrained/cdt_small.ckpt
+
+.DS_Store
